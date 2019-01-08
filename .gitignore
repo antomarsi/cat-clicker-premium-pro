@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+.DS_Store
+dist
+assets/fonts/@fortawesome
+assets/js/vendor
+assets/scss/bootstrap
+assets/css
